@@ -1,0 +1,11 @@
+C:\Users\maxpi\source\repos\Comparing_Files\Comparing_Files\bin\Debug\netcoreapp3.1\Comparing_Files.exe
+C:\Users\maxpi\source\repos\Comparing_Files\Comparing_Files\bin\Debug\netcoreapp3.1\Comparing_Files.deps.json
+C:\Users\maxpi\source\repos\Comparing_Files\Comparing_Files\bin\Debug\netcoreapp3.1\Comparing_Files.runtimeconfig.json
+C:\Users\maxpi\source\repos\Comparing_Files\Comparing_Files\bin\Debug\netcoreapp3.1\Comparing_Files.runtimeconfig.dev.json
+C:\Users\maxpi\source\repos\Comparing_Files\Comparing_Files\bin\Debug\netcoreapp3.1\Comparing_Files.dll
+C:\Users\maxpi\source\repos\Comparing_Files\Comparing_Files\bin\Debug\netcoreapp3.1\Comparing_Files.pdb
+C:\Users\maxpi\source\repos\Comparing_Files\Comparing_Files\obj\Debug\netcoreapp3.1\Comparing_Files.csprojAssemblyReference.cache
+C:\Users\maxpi\source\repos\Comparing_Files\Comparing_Files\obj\Debug\netcoreapp3.1\Comparing_Files.AssemblyInfoInputs.cache
+C:\Users\maxpi\source\repos\Comparing_Files\Comparing_Files\obj\Debug\netcoreapp3.1\Comparing_Files.AssemblyInfo.cs
+C:\Users\maxpi\source\repos\Comparing_Files\Comparing_Files\obj\Debug\netcoreapp3.1\Comparing_Files.dll
+C:\Users\maxpi\source\repos\Comparing_Files\Comparing_Files\obj\Debug\netcoreapp3.1\Comparing_Files.pdb
